@@ -1,4 +1,4 @@
-# RANDOM MEAL GENERATOR
+#RANDOM MEAL GENERATOR
 
 ## 目的 
 ***
@@ -10,11 +10,12 @@
 
 ## 使い方
 ***
-1.Breakfast, Lunch, Dinnerをクリックすると、ランダムに料理サイト/料理レシピが表示される
+1. Breakfast, Lunch, Dinnerをクリックすると、ランダムに料理サイト/料理レシピが表示される
 2. 料理名の右横にある星をクリックしお気に入り登録が可能
-3. "FAVORITE"よりお気に入り料理一覧の表示およびお気に入り料理の削除       
+3. "FAVORITE"よりお気に入り料理一覧の表示およびお気に入り料理の削除
 4. "HOME"よりトップページに戻る
 5. SNS（Facebook, Pinterest, Twitter)とメールでWebアプリをシェアすることが可能
 
 ## URL
 ***
+工事中
